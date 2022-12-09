@@ -1,0 +1,6 @@
+﻿  HF.cpp
+C:\Users\WuLiuZ\Desktop\mycode\整合\拓展实验一实验报告及代码\Project27\Project27\HF.cpp(12,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WuLiuZ\Desktop\mycode\整合\拓展实验一实验报告及代码\Project27\Project27\HF.cpp(16,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WuLiuZ\Desktop\mycode\整合\拓展实验一实验报告及代码\Project27\Project27\HF.cpp(164,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\WuLiuZ\Desktop\mycode\整合\拓展实验一实验报告及代码\Project27\Project27\HF.cpp(183,23): warning C4018: “<”: 有符号/无符号不匹配
+  Project27.vcxproj -> C:\Users\WuLiuZ\Desktop\mycode\整合\拓展实验一实验报告及代码\Project27\Debug\Project27.exe
